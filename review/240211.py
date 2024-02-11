@@ -26,7 +26,6 @@ def solution(A:dict):
     A.get()
     
 #* 컴백홈
-#* 그래프 물어보기
 from queue import Queue
 #from collections import deque
 dy = [0, 1, 0, -1]
